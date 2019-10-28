@@ -5,8 +5,8 @@
 	Integration of flask and React.
 
 ## Requirements
-pip3
-Flask
+* pip3
+* Flask
 
 
 ## Setup Locally
