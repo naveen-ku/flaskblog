@@ -1,15 +1,15 @@
 # flaskblog
 	A blog site for bloggers made via Flask.
 
-##Do's
+## Do's
 	Integration of flask and React.
 
-##Requirements
+## Requirements
 pip3
 Flask
 
 
-##Setup Locally
+## Setup Locally
 1. Install pip3 
 	>`sudo apt install python3-pip`
 2. Install virtualenv __(optional)__
@@ -19,7 +19,7 @@ Flask
 	> `virtualenv venv`
 	> source venv/bin/activate
 3. Install `Flask`
-	>pip install flask
+	>`pip install flask`
 4. Install required packages
 	* flask_sqlalchemy
 	* flask_bcrypt
